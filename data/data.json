@@ -1,0 +1,21 @@
+[
+  {
+    "House": "Baratheon",
+    "Sigil": "A crowned stag",
+    "Motto": "Ours is the Fury"
+  },
+  {
+    "Leader": "Eddard Stark",
+    "House": "Stark",
+    "Motto": "Winter is Coming",
+    "Sigil": "A grey direwolf"
+  },
+  {
+    "House": "Lannister",
+    "Leader": "Tywin Lannister",
+    "Sigil": "A golden lion"
+  },
+  {
+    "Q": "Z1"
+  }
+]
